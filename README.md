@@ -38,7 +38,7 @@ Systems Architect & Full-Stack Engineer with a track record of translating compl
 
 Currently engineering **Viral Studio**—a macOS Sequoia-inspired AI cinema pre-production & NLE pipeline bridging Next.js 15, FastAPI, FCP7 XML, and After Effects automation. Alongside video tooling, I build autonomous cognitive engines like **FuY.Land** (local-first cognitive synthesis running on RTX silicon and Qdrant vector memory) and **OSINT-Sentinel** (enterprise multi-platform social graph intelligence with 24/7 stream archival).
 
-Beyond code, I explore the architecture of human memory and Building Digital Ideal Twin—AI **Henaseh (هناسه)**, alongside publishing empirical cognitive psychology research.
+Beyond code, I explore the architecture of human memory and building Digital Ideal Twin—AI **Henaseh (هناسه)**, alongside publishing empirical cognitive psychology research.
 
 I combine deep technical craftsmanship with strategic systems thinking—whether architecting local-first sovereign AI pipelines, reverse-engineering complex multimedia workflows across Adobe and TouchDesigner, or translating intricate human cognition into resilient, zero-hype software.
 
@@ -132,7 +132,7 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 <br/>
 
 <div align="center">
-  <p><em>"local sovereignty and systemic cognition to solve problems by building."</em></p>
+  <p><em>"Local sovereignty and systemic cognition to solve problems by building."</em></p>
   
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=001147&height=110&section=footer" width="100%" alt="footer wave" />
