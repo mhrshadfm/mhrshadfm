@@ -1,10 +1,4 @@
-<div align="center">
 
-  <br/>
-
-  <p align="center">
-    <img src="./assets/cyber_sigil.png" width="92" alt="Design Syndrome Neo-Tribal Sigil" />
-  </p>
 
   # MEHRSHAD FARHOUD MOGHADAM
 
@@ -53,7 +47,6 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 | :--- | :--- | :--- |
 | **Viral Studio** | Next.js 15, React 19, FastAPI, SQLite, Premiere XML | macOS glassmorphic pre-production engine, Premiere Pro magnetic timeline, AE V1–V12 layer inspector, RTL/LTR script editor, and cadence WPS engine. |
 | **FuY.Land** | Python, Ollama (RTX Local LLMs), Qdrant Vector DB | Autonomous cognitive synthesis engine. Decodes live signals across AI, cognitive psychology, and platform dynamics with anti-PR quality gates. |
-| **Henaseh (هناسه)** | High-Prestige Persian Prose, Calibrated Grids | Full-length autobiographical, existential-romantic novel deconstructing memory, grief, dissociation, and radical solitary sovereignty. |
 | **OSINT-Sentinel** | Python, FastAPI, FFmpeg, NetworkX, Interactive Graph | Multi-platform intelligence tracker, live HLS broadcast recording daemon, network centrality metrics, and anti-detection jitter engines. |
 | **Spaces** | Electron, Node.js, Windows 11 / macOS UI | Multi-account isolated application runner with isolated cookie/session sandboxing and clean desktop virtualization. |
 | **Silk Road Core** | FastAPI, SQLite, Cloudflare Tunnels, Telegram WebApp | Mathematical multi-tier affiliate referral architecture with geometric commission decay and privacy-preserving downline indexing. |
@@ -129,9 +122,9 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 ```yaml
 [ SPEC // 0x23_COGNITION ]
 -----------------------------------------------------------------------------------------
-🧠 Interests     → Local-First AI · Cognitive Psychology · Systems Architecture · Dark Rock · Existential Philosophy
+🧠 Interests     → Local-First AI · Cognitive Psychology · Systems Architecture 
 💪 Training      → Systems Thinking · Heavy Resistance Training · Radical Cognitive Anti-Fragility
-📈 Intelligence  → OSINT Graph Dynamics · Game Theory & Probability · High-Signal Synthetics
+📈 Intelligence  → OSINT Graph Dynamics · High-Signal Synthetics
 🌐 Languages     → English (C2 Proficient) · Persian (Native) · Kurdish (Sorani/Ardalani) · Russian (Elementary)
 ```
 
