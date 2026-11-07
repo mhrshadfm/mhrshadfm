@@ -50,8 +50,6 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 | **OSINT-Sentinel** | Python, FastAPI, FFmpeg, NetworkX, Interactive Graph | Multi-platform intelligence tracker, live HLS broadcast recording daemon, network centrality metrics, and anti-detection jitter engines. |
 | **Spaces** | Electron, Node.js, Windows 11 / macOS UI | Multi-account isolated application runner with isolated cookie/session sandboxing and clean desktop virtualization. |
 | **Silk Road Core** | FastAPI, SQLite, Cloudflare Tunnels, Telegram WebApp | Mathematical multi-tier affiliate referral architecture with geometric commission decay and privacy-preserving downline indexing. |
-| **Cognitive Dissociation Research** | Scientific LaTeX, PRISMA Framework, Tectonic | Scholarly manuscript investigating nostalgic autobiographical recall in chronic dissociative states for Q1 clinical psychology journals. |
-
 ---
 
 ## ░▒▓ 03 // TECHNICAL SPECIFICATION MATRIX
