@@ -1,4 +1,10 @@
+<div align="center">
 
+  <br/>
+
+  <p align="center">
+    <img src="./assets/cyber_banner.png" width="92" alt="Design Syndrome Neo-Tribal Sigil" />
+  </p>
 
   # MEHRSHAD FARHOUD MOGHADAM
 
