@@ -55,7 +55,7 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 | **Silk Road Core** | FastAPI, SQLite, Cloudflare Tunnels, Telegram WebApp | Mathematical multi-tier affiliate referral architecture with geometric commission decay and privacy-preserving downline indexing. |
 ---
 
-## ░▒▓ 03 // TECHNICAL SPECIFICATION MATRIX
+## ░▒▓ 03 // TECHNICAL SPECIFICATION MATRIX MY AI USE 
 
 <div align="center">
 
