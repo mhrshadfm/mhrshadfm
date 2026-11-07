@@ -1,7 +1,6 @@
 <div align="center">
-
-  <br/>
-
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=470200,100:16213e&height=120&section=header" width="100%"/>
   <p align="center">
     <img src="./assets/cyber_banner.png" width="92" alt="Design Syndrome Neo-Tribal Sigil" />
   </p>
