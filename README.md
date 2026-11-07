@@ -138,5 +138,5 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
   <p><em>"Leveraging local sovereignty and systemic cognition to solve complex human challenges."</em></p>
   
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=110&section=footer" width="100%" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001147&height=110&section=footer" width="100%" alt="footer wave" />
 </div>
