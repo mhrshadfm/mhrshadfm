@@ -1,7 +1,6 @@
 <div align="center">
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=470200&height=120&section=header" width="100%"/>
-    <img src="./assets/cyber_banner.png" width="100%" alt="Neo-Tribal Sigil" />
   </p>
 
   # MEHRSHAD FARHOUD MOGHADAM
@@ -133,7 +132,7 @@ I combine deep technical craftsmanship with strategic systems thinking—whether
 <br/>
 
 <div align="center">
-  <p><em>"Leveraging local sovereignty and systemic cognition to solve complex human challenges."</em></p>
+  <p><em>"local sovereignty and systemic cognition to solve problems by building."</em></p>
   
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=001147&height=110&section=footer" width="100%" alt="footer wave" />
