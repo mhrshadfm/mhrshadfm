@@ -53,15 +53,6 @@ I combine deep technical craftsmanship with strategic systems thinking: architec
 
 <br/>
 
-<img src="./assets/h-03.svg" width="100%" alt="03 // Technical Specification Matrix" />
-
-<div align="center">
-
-
-</div>
-
-<br/>
-
 <img src="./assets/h-04.svg" width="100%" alt="04 // The City I'm Building" />
 
 <img src="./assets/city.svg" width="100%" alt="Contribution city: my last year of GitHub contributions drawn as an ASCII isometric city" />
