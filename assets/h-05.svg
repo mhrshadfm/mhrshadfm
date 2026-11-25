@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="05 // BEYOND CODE">
+<title>05 // BEYOND CODE</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+.mono{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes twinkle{0%,100%{opacity:1}40%{opacity:.15}60%{opacity:.9}}
+@keyframes scan{0%{transform:translateY(-120px)}100%{transform:translateY(96px)}}
+.blink{animation:blink 1.1s steps(1,end) infinite}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.scan{animation:scan 7s linear infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#ff2a44"/><stop offset="1" stop-color="#2f6bff"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="55" rx="10" fill="#04050a" stroke="#18213d"/>
+<text x="22" y="34" font-size="15" fill="#ff2a44" letter-spacing="-1">░▒▓</text>
+<text x="66" y="34" font-size="15" font-weight="700" fill="#ff2a44">05</text>
+<text x="94" y="34" font-size="15" fill="#2f6bff">//</text>
+<text x="128" y="34" font-size="15" font-weight="700" letter-spacing="3.2" fill="#f4f6ff">BEYOND CODE</text>
+<line x1="280.2" y1="29" x2="880" y2="29" stroke="url(#hl)" opacity=".7"/>
+<path d="M288 33v6 M300 33v3 M312 33v3 M324 33v3 M336 33v6 M348 33v3 M360 33v3 M372 33v3 M384 33v6 M396 33v3 M408 33v3 M420 33v3 M432 33v6 M444 33v3 M456 33v3 M468 33v3 M480 33v6 M492 33v3 M504 33v3 M516 33v3 M528 33v6 M540 33v3 M552 33v3 M564 33v3 M576 33v6 M588 33v3 M600 33v3 M612 33v3 M624 33v6 M636 33v3 M648 33v3 M660 33v3 M672 33v6 M684 33v3 M696 33v3 M708 33v3 M720 33v6 M732 33v3 M744 33v3 M756 33v3 M768 33v6 M780 33v3 M792 33v3 M804 33v3 M816 33v6 M828 33v3 M840 33v3 M852 33v3 M864 33v6 M876 33v3" stroke="#2b3863"/>
+<text x="976" y="33" font-size="9" letter-spacing="2" fill="#7482ad" text-anchor="end">SEC.05<tspan class="blink" fill="#ff2a44"> ▮</tspan></text>
+</svg>
