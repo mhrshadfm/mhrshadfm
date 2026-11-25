@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="04 // THE CITY I&#x27;M BUILDING">
-<title>04 // THE CITY I&#x27;M BUILDING</title>
+<title>03 // THE CITY I&#x27;M BUILDING</title>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
 .mono{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
@@ -22,4 +22,4 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Li
 <line x1="402.2" y1="29" x2="880" y2="29" stroke="url(#hl)" opacity=".7"/>
 <path d="M410 33v3 M422 33v3 M434 33v6 M446 33v3 M458 33v3 M470 33v3 M482 33v6 M494 33v3 M506 33v3 M518 33v3 M530 33v6 M542 33v3 M554 33v3 M566 33v3 M578 33v6 M590 33v3 M602 33v3 M614 33v3 M626 33v6 M638 33v3 M650 33v3 M662 33v3 M674 33v6 M686 33v3 M698 33v3 M710 33v3 M722 33v6 M734 33v3 M746 33v3 M758 33v3 M770 33v6 M782 33v3 M794 33v3 M806 33v3 M818 33v6 M830 33v3 M842 33v3 M854 33v3 M866 33v6 M878 33v3" stroke="#2b3863"/>
 <text x="976" y="33" font-size="9" letter-spacing="2" fill="#7482ad" text-anchor="end">SEC.04<tspan class="blink" fill="#ff2a44"> ▮</tspan></text>
-</svg>
+3</svg>
