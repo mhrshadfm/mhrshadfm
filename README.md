@@ -57,54 +57,6 @@ I combine deep technical craftsmanship with strategic systems thinking: architec
 
 <div align="center">
 
-`░▒▓ LANGUAGES`
-
-<img src="https://img.shields.io/badge/TYPESCRIPT-0a0d16?style=for-the-badge&logo=typescript&logoColor=2f6bff" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-0a0d16?style=for-the-badge&logo=javascript&logoColor=2f6bff" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PYTHON-0a0d16?style=for-the-badge&logo=python&logoColor=2f6bff" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-0a0d16?style=for-the-badge&logo=cplusplus&logoColor=2f6bff" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-0a0d16?style=for-the-badge&logo=sqlite&logoColor=2f6bff" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-0a0d16?style=for-the-badge&logo=html5&logoColor=2f6bff" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0a0d16?style=for-the-badge&logo=css&logoColor=2f6bff" alt="CSS3" />
-
-`░▒▓ FRONTEND & DESKTOP`
-
-<img src="https://img.shields.io/badge/REACT-0a0d16?style=for-the-badge&logo=react&logoColor=ff2a44" alt="React" />
-<img src="https://img.shields.io/badge/NEXT.JS-0a0d16?style=for-the-badge&logo=nextdotjs&logoColor=ff2a44" alt="Next.js" />
-<img src="https://img.shields.io/badge/TAILWIND-0a0d16?style=for-the-badge&logo=tailwindcss&logoColor=ff2a44" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/SHADCN%2FUI-0a0d16?style=for-the-badge&logo=shadcnui&logoColor=ff2a44" alt="shadcn/ui" />
-<img src="https://img.shields.io/badge/ELECTRON-0a0d16?style=for-the-badge&logo=electron&logoColor=ff2a44" alt="Electron" />
-
-`░▒▓ BACKEND & DATA`
-
-<img src="https://img.shields.io/badge/FASTAPI-0a0d16?style=for-the-badge&logo=fastapi&logoColor=2f6bff" alt="FastAPI" />
-<img src="https://img.shields.io/badge/EXPRESS-0a0d16?style=for-the-badge&logo=express&logoColor=2f6bff" alt="Express" />
-<img src="https://img.shields.io/badge/POSTGRESQL-0a0d16?style=for-the-badge&logo=postgresql&logoColor=2f6bff" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLITE-0a0d16?style=for-the-badge&logo=sqlite&logoColor=2f6bff" alt="SQLite" />
-<img src="https://img.shields.io/badge/QDRANT-0a0d16?style=for-the-badge&logo=qdrant&logoColor=2f6bff" alt="Qdrant" />
-
-`░▒▓ AI & SOVEREIGN COMPUTE`
-
-<img src="https://img.shields.io/badge/OLLAMA-0a0d16?style=for-the-badge&logo=ollama&logoColor=ff2a44" alt="Ollama" />
-<img src="https://img.shields.io/badge/LOCAL%20LLMS%20ON%20RTX-0a0d16?style=for-the-badge&logo=nvidia&logoColor=ff2a44" alt="Local LLMs on RTX" />
-<img src="https://img.shields.io/badge/HUGGING%20FACE-0a0d16?style=for-the-badge&logo=huggingface&logoColor=ff2a44" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/PYTORCH-0a0d16?style=for-the-badge&logo=pytorch&logoColor=ff2a44" alt="PyTorch" />
-
-`░▒▓ CREATIVE TECH & AUDIO/VISUAL`
-
-<img src="https://img.shields.io/badge/TOUCHDESIGNER-0a0d16?style=for-the-badge&labelColor=2f6bff&label=%E2%96%A0" alt="TouchDesigner" />
-<img src="https://img.shields.io/badge/PREMIERE%20PRO-0a0d16?style=for-the-badge&labelColor=2f6bff&label=%E2%96%A0" alt="Premiere Pro" />
-<img src="https://img.shields.io/badge/AFTER%20EFFECTS-0a0d16?style=for-the-badge&labelColor=2f6bff&label=%E2%96%A0" alt="After Effects" />
-<img src="https://img.shields.io/badge/FFMPEG-0a0d16?style=for-the-badge&logo=ffmpeg&logoColor=2f6bff" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/ABLETON%20LIVE-0a0d16?style=for-the-badge&labelColor=2f6bff&label=%E2%96%A0" alt="Ableton Live" />
-
-`░▒▓ DEVOPS & TOOLS`
-
-<img src="https://img.shields.io/badge/DOCKER-0a0d16?style=for-the-badge&logo=docker&logoColor=ff2a44" alt="Docker" />
-<img src="https://img.shields.io/badge/NGINX-0a0d16?style=for-the-badge&logo=nginx&logoColor=ff2a44" alt="Nginx" />
-<img src="https://img.shields.io/badge/GIT-0a0d16?style=for-the-badge&logo=git&logoColor=ff2a44" alt="Git" />
-<img src="https://img.shields.io/badge/FIGMA-0a0d16?style=for-the-badge&logo=figma&logoColor=ff2a44" alt="Figma" />
-<img src="https://img.shields.io/badge/POSTMAN-0a0d16?style=for-the-badge&logo=postman&logoColor=ff2a44" alt="Postman" />
 
 </div>
 
